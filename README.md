@@ -1,4 +1,4 @@
-# [Your Name]
+# [Miyu Nakamori]
 ### Mechanical Engineering Student | Seattle Pacific University
 Expected Graduation: June 2026
 
