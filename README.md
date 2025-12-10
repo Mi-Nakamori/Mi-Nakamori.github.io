@@ -42,6 +42,7 @@ I am a Mechanical Engineering student with a passion for robotics, renewable ene
 
 ![Blakely Island Field Work](blakely.jpg)
 ![Blakely Island Field Work](hydro theoretical result.png)
+*Working in a team, we determined the theoretical flow rates vs. nozzle diameters and head heights.
 
 ### Leveraging AWES to Build Reliable Microgrids (Research)
 *Published in 2025 IEEE PES/IAS PowerAfrica | Co-Author*
