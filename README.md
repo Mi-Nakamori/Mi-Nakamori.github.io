@@ -1,4 +1,4 @@
-# [Miyu Nakamori]
+# Miyu Nakamori
 ### Mechanical Engineering Student | Seattle Pacific University
 Expected Graduation: June 2026
 
@@ -22,7 +22,8 @@ I am a Mechanical Engineering student with a passion for robotics, renewable ene
     * Completed technical certifications (Electrical Hazard Recognition, CPR, AED, and First Aid).
     * Conducted validation testing of new tools against legacy standards to ensure grid reliability.
 
-![Electrical Hazzard Recognition Training](Electrical Hazzard Recognition Training.jpg)
+[Electrical Hazzard Recognition Training]
+(Electrical Hazzard Recognition Training.jpg)
 ---
 
 ## Projects
