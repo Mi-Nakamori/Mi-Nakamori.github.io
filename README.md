@@ -23,7 +23,7 @@ I am a Mechanical Engineering student with a passion for robotics, renewable ene
     * Conducted validation testing of new tools against legacy standards to ensure grid reliability.
 
 [Electrical Hazzard Recognition Training]
-(Electrical Hazzard Recognition Training.jpg)
+(Electrical Hazzard Recognition Training.png)
 ---
 
 ## Projects
@@ -41,7 +41,7 @@ I am a Mechanical Engineering student with a passion for robotics, renewable ene
 * **Outcome:** Evaluated design choices of the island's existing hydroplant (installed in the 1970s) and proposed modern design improvements.
 
 ![Blakely Island Field Work](blakely.jpg)
-![Blakely Island Field Work](hydro theoretical result.jpg)
+![Blakely Island Field Work](hydro theoretical result.png)
 
 ### Leveraging AWES to Build Reliable Microgrids (Research)
 *Published in 2025 IEEE PES/IAS PowerAfrica | Co-Author*
